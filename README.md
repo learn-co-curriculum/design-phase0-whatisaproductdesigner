@@ -85,6 +85,11 @@ by [Marina Yalanska](https://www.linkedin.com/in/marina-yalanska-155b4063/) of [
 
 ## Videos ##
 
+
+<h3><a href="https://medium.com/fresh-tilled-soil/what-is-user-interface-design-d7bf8c4561dc">What-is-a UI design?</h3>
+<p><a href="https://medium.com/fresh-tilled-soil/what-is-user-interface-design-d7bf8c4561dc"><span style="font-size: 10pt; color: #808080;">by </span></a><a href="https://www.linkedin.com/in/heathumbach/"> Heath Umbach</a> of <em><a href="https://www.truxnow.com/">Trux </a></em>(5 min read)</p>
+ 
+ 
 ### [ZZZZZZ](https://www.youtube.com/watch?v=CJnfAXlBRTE)
 (34 min) Jose and Chris explain what UX Design is by working on the redesign of The Skool's website. User Experience Design (UXD) is the process of enhancing user satisfaction by improving the usability, accessibility, and pleasure provided in the interaction between the user and a product or service. <br><br>
 <a href="https://www.youtube.com/watch?v=yY96hTb8WgI"><img src="https://img.youtube.com/vi/CJnfAXlBRTE/0.jpg" width="420"></a>
