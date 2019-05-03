@@ -5,17 +5,17 @@
 
 ### While everyone can point out examples of bad design, good design often goes unnoticed by users since it provides them a seamless experience. Good design is felt throughout the lifecycle of the product or service. 
 
-User Interface (UI) design comes in as a later step of the design process, just before the product or service is handed off to developers. In UI design, all of the deliverables are exclusively visual and the majority of the work is the digital space.
+User Interface (UI) design comes in as a later step of the design process, just before the product or service is handed off to developers. In UI design, all of the deliverables are exclusively **visual** and the majority of the work is the **digital** space.
 
-UI designers are responsible for shaping the fine look and feel while highly considering usability of a product, app or website. They must design for a variety of functionalities, users and contexts using branding, color, photography and typography. Good user interface design facilitates the user in accomplishing the task at hand without drawing unnecessary attention to itself all the meanwhile being an extension of the existing brand aesthetic. UI Designers aim to create designs users will find easy to use as well as visually and emotionally pleasurable. 
+UI designers are responsible for shaping the fine **look and feel** while highly considering usability of a product, app or website. They must design for a variety of functionalities, users and contexts using branding, color, photography and typography. Good user interface design facilitates the user in accomplishing the task at hand without drawing unnecessary attention to itself all the meanwhile being an extension of the existing brand aesthetic. UI Designers aim to create designs users will find easy to use as well as visually and emotionally pleasurable. 
 
-Interaction Design (IxD) could be but not always is required as an aspect of being an UI Designer. This role is focused on how the visual design interacts with its users. For digital products or services, this includes motion design, such as animations and transitions. When talking about physical (non-digital) products, Interaction Design is about exploring how a user might interact physically with that particular product.
+**Interaction Design (IxD)** could be but not always is required as an aspect of being an UI Designer. This role is focused on how the visual design interacts with its users. For digital products or services, this includes motion design, such as animations and transitions. When talking about physical (non-digital) products, Interaction Design is about exploring how a user might interact physically with that particular product.
 
-Where do the terms graphic design, branding design, web design and visual design come into play? Most of those roles are foundational to what UI Designers do. Graphic Design is generally tied to print design, design that is seen on paper or physical spaces but having these fundamental design skills can be helpful to a UI Designer. Branding Design is focused on logo and the visual experience of a company which could be static or digital. A proper UI Designer will need to understand how to extend a company brand into their design work. Web Design comes the closest to a UI Designer as they think about the user and interfaces as they create a visual product that is an extension of the brand and will also consider motion in their deliverables. But Web Designers are limited to the web, be it desktop or mobile; UI Designers traverse beyond interface designs on the internet. Visual Designers have been called the visual problem solvers of the design world. Not only can they bring brands to life or evolve the brand, they can communicate and explain design concepts and the decisions behind their work. May times a strong Visual Designer has solid user experience understanding as they need to follow the user journey of the brand.
+Where do the terms **graphic design, branding design, web design** and **visual design** come into play? Most of those roles are foundational to what UI Designers do. Graphic Design is generally tied to print design, design that is seen on paper or physical spaces but having these fundamental design skills can be helpful to a UI Designer. Branding Design is focused on logo and the visual experience of a company which could be static or digital. A proper UI Designer will need to understand how to extend a company brand into their design work. Web Design comes the closest to a UI Designer as they think about the user and interfaces as they create a visual product that is an extension of the brand and will also consider motion in their deliverables. But Web Designers are limited to the web, be it desktop or mobile; UI Designers traverse beyond interface designs on the internet. Visual Designers have been called the visual problem solvers of the design world. Not only can they bring brands to life or evolve the brand, they can communicate and explain design concepts and the decisions behind their work. May times a strong Visual Designer has solid user experience understanding as they need to follow the user journey of the brand.
 
 Web designers are a subset of Visual Designers, focused exclusively on website design work.
 
-User Interface Designers are also a subset of Visual Designers, focusing exclusively on digital interfaces. This would include more than just websites. 
+User Interface Designers are also a subset of Visual Designers, focusing exclusively on digital interfaces. This would include more than just websites.
 
 ## Part brand ambassador, part visual designer, part motion designer, UI Designers are skilled in a variety of these skills and responsibilities:
 - Has solid understanding in typography, images, color, layout
@@ -26,8 +26,9 @@ User Interface Designers are also a subset of Visual Designers, focusing exclusi
 - Leveraging interaction (motion) design to solve for space considerations and to create a memorable user experience
 - Works very closely with developers to ensure the interactions are implemented well
 - A little knowledge in development is a nice to have
+<br><br>
 
-When Visual and UI Designer consider their designs, they think and check to ensure their designs are: 
+**When Visual and UI Designer consider their designs, they think and check to ensure their designs are:**
 
 - innovative
 - useful
@@ -42,60 +43,23 @@ When Visual and UI Designer consider their designs, they think and check to ensu
 - and contains as little design as possible
 
 
-
-
-
-
-### [UserTesting.com](https://www.usertesting.com/blog/ui-vs-ux/) defines UX designer this way: 
-
-> UX designers are responsible for ensuring that the company delivers a product or service that meets the needs of the customer and allows them to seamlessly achieve their desired outcome. <br><br>UX designers work closely with UI designers, UX researchers, marketers, and product teams to understand their users through research and experimentation. They use the insights gained to continually iterate and improve experiences, based on both quantitative and qualitative user research."
-
-Since its growing popularity in the late 2000s, UX has been adopted by different markets. Jobs now range from generalist UX design positions to highly-specialized UX roles in larger companies. It's important to note that how a company views UX will likely dictate the job of their staff UX designers. In other words, wherever a designer works, an [agency](https://kubixmedia.co.uk/blog/what-is-a-creative-agency-and-what-do-we-actually-do/), a [startup](https://www.forbes.com/sites/natalierobehmed/2013/12/16/what-is-a-startup/#22eee3f64044), an [in-house](https://www.investopedia.com/terms/i/in-house.asp) company or a [consultancy](https://uxdesign.cc/being-a-design-consultant-objective-and-expectation-996940d03eb6), will determine precisely what role they take on at that company.
-
-#
-
-### For example, at [Airbnb](https://www.airbnb.com/), the Experience Designers are comprised of interaction, visual and service designers:
-> What we design goes beyond the screen and impacts all aspects of our users' journey (hence the name Experience Design). Sometimes we design small adjustments to a page or flow, sometimes we’re designing wholly new product experiences. Both have a big impact. We are all hybrids and we work at all stages of the product process—from concept to launch—in collaboration with researchers, product managers and engineers. The work is challenging. It stretches us to think online and offline and embrace all cultures." <br><br>— Katie Dill, UX Designer from Airbnb, 2015.
-
-#
-
-### Google tend to be more specialized and focus on product focused UX patterns:
-> [Google] UX Designers on a daily day basis design interfaces navigation models UX patterns for a lot of different apps and surfaces... I helped change the UI in a way that's more usable and more efficient to users... <br><br>— Sun Park, User Experience Designer from Google, 2017
-
-#
-
-### An 'Experience Lead' at [Huge](https://www.hugeinc.com/) agency research, strategizes and defines designs:
-> Experience Leads oversee an interdisciplinary team (including Visual and Interaction Designers, Content Strategists and Copywriters, Developers and more) through research, strategy development, concepting, product definition and design. <br><br>A successful Experience Lead at Huge is an innovative designer, a decisive product owner, a helpful mentor, a team player and a skilled client partner all rolled into one. Our Leads push the work through strong collaboration and challenge the team to think beyond what’s expected. This is a hands-on role: our Leads create designs, personas, site maps and whatever is needed to communicate the team's thinking. (Source: Huge Inc. job description) 
-
-# 
-
-### Part researcher, part strategist, part marketer, part analytics, UX Designers are skilled in a variety of these skills and responsibilities:
-* research (competitive analysis)
-* empathy (understanding users)
-* content (strategy, copywriting)
-* information architecture (wireframing)
-* prototyping (testing and experimentation)
-* collaboration (working closely with developers and visual designers to execute designs)
-* analytics (tracking results)
-
-
-
 ## UX Student Interviews ## 
 
-To get a better sense of UX design as it relates to the program at Flatiron School (powered by Designation), read a few interviews from our alumni:
+To get a better sense of UI design as it relates to the program at Flatiron School (powered by Designation), read a few interviews from our alumni:
 
-### [From banking to UX design.](https://designation.io/blog/qui-dixon)
-by [Qui Dixon](https://www.quidixon.com/) \(Basil cohort grad)\, [BSwift](https://www.bswift.com/) 
+### [From graphic design to digital design.](https://designation.io/blog/kitfrench) 
+by [Kit French](https://kitfren.ch/), \(Viridian cohort gradudate)\, [MindBody](https://software.mindbodyonline.com/)
 (5 min read)
 
-### [Former video editor to turned UX designer.](https://designation.io/blog/kyle-howard) 
-by [Kyle Howard](http://kylehoward.design/) \(Yucca cohort grad)\, [Bose](https://www.bose.com/en_us/index.html) 
+### [Former marketer turned digital designer.](https://designation.io/blog/interview-kate-doornbos) 
+by [Kate Doornbos](https://www.linkedin.com/in/katedoornbos//), \(Topaz cohort gradudate)\, [Interior Define](https://www.interiordefine.com/)
 (5 min read)
 
 
-### [Coffee meets UX design.](https://designation.io/blog/interview-with-anabelle-zee) 
-by [Anabelle Zee](http://anabellezee.com/) \(Obsidian cohort grad)\, [Pandora](https://www.pandora.com/) 
+### [Dancing and design.](https://designation.io/blog/josh-magno) 
+by [Josh Magno](https://www.joshmagno.com/), \(Xenon cohort gradudate)\, [Vitality Group](https://www.vitalitygroup.com/)
 (5 min read)
+<br><br>
 
 
 ## Articles ##
@@ -103,11 +67,22 @@ by [Anabelle Zee](http://anabellezee.com/) \(Obsidian cohort grad)\, [Pandora](h
 ### [Explaining UX design to my sister](https://medium.com/nyc-design/explaining-ux-to-my-sister-7b2eda38fbb4)
 by [Kaleigh Flynn](https://www.kaleighflynn.com/) of [Microsoft](https://www.microsoft.com/en-us/) (5 min read) A few weeks ago, I was talking to my younger sister about careers. Me: “…So that’s when I decided I’d like to focus on becoming a UX designer rather than staying in front-end development.” Sister: “Well, what is UX?” Me: *generic textbook definition of usability and user focused design* Sister: “So… a web designer?” Me: “Well, not exactly. I think what you mean is a UI designer. They definitely work hand-in-hand but focus on different aspects of the same story. Ya know?” Sister: “But there are enough templates out there for me to make a website so what is the point?” [Read more](https://medium.com/nyc-design/explaining-ux-to-my-sister-7b2eda38fbb4)
 
-### [The many roles in UX](https://medium.com/swlh/the-many-roles-in-ux-6a9c6b7ab231)
-by [Per Magnus Sköld](https://www.kaleighflynn.com/) of [Mako Design + Invent](https://www.makodesign.com/) (5 min read) An Industrial Designer has always been an Industrial Designer. While there are several skills that an Industrial Designer must employ that are shared with other occupations, such as Graphic Design, 3D rendering visualization, 3D cad, faux-Engineer, and of course, sketcher/artist/illustrator. Sometimes it is the loftier role of Big-picture-thinker, or just as likely, the torch-bearer for keeping the design intent as it goes through the engineering-grinder. But it has always just been…Industrial Designer. Were this ten years ago I would have told you that an Industrial Designer and a Product Designer are the same thing, but as the tides have shifted, this too has changed. [Read more](https://medium.com/swlh/the-many-roles-in-ux-6a9c6b7ab231)
+### [What-is-a UI design?]()
+by  (Links to an external site.) Heath Umbach (Links to an external site.) of Trux  (Links to an external site.)(5 min read)
 
-### [What is UX design?](https://www.usertesting.com/blog/what-is-ux-design-15-user-experience-experts-weigh-in/)
-by 15 UX designers (10 min read) It’s important to start by saying there’s no commonly accepted definition for UX design. User experience design is a concept that has many dimensions, and it includes a bunch of different disciplines—such as interaction design, information architecture, visual design, usability, and human-computer interaction. But let’s try to get a clearer picture of what that really means. [Read more](https://www.usertesting.com/blog/what-is-ux-design-15-user-experience-experts-weigh-in/)
+UX and UI are often lumped into product conversations as meaning the same thing. This confusion is common, even within product design circles. But conflating UI with UX, or vis versa, is problematic. They are not the same thing and can exist as mutually exclusive elements in product design. Read more (Links to an external site.)
+
+### [A comprehensive guide to UI design](https://www.smashingmagazine.com/2018/02/comprehensive-guide-ui-design/)
+by Christopher Murphy (Links to an external site.) of [Ulster](https://www.ulster.ac.uk/) (18 min read) UX, IA, UI: All of these abbreviations can be confusing. In reality, as designers, we’ll often be working across these different specialisms: designing the overall user experience (UX), organizing information logically as we consider information architecture (IA), and considering the granular design of the user interface (UI). [Read more](https://www.smashingmagazine.com/2018/02/comprehensive-guide-ui-design/)
+
+### [Graphic Design, UI Design, Visual Design, and Web Design—What’s the Difference?](https://skillcrush.com/2016/05/31/what-is-visual-design/)
+by [Skillcrush](https://skillcrush.com//) (15 min read) If you’re someone who has a background (or even an interest) in graphic design or digital design, some of tech’s key job perks probably speak directly to you. Flexible scheduling, the opportunity to work from home or remotely anywhere in the world, starting salaries that will let you say goodbye to Cup Noodles once and for all—I bet you’re wondering where to sign up, right? [Read more](https://skillcrush.com/2016/05/31/what-is-visual-design/)
+
+### [Branding and UI design](https://tubikstudio.com/faq-design-role-of-branding-in-ui-design/)
+by [Marina Yalanska](https://www.linkedin.com/in/marina-yalanska-155b4063/) of [Tubik Studio](https://tubikstudio.com/) (15 min read) Today’s issue of our FAQ Design Platform in Tubik Blog will concentrate on issues of the role of some visual elements of branding for creating efficient and high-quality user interface design. The answer is based on the thoughts we have provided for the question on Quora which you are always very welcome to read and where we are happy to share our ideas, knowledge, and experience. [Read more](https://tubikstudio.com/faq-design-role-of-branding-in-ui-design/)
+
+
+
 
 
 ## Videos ##
