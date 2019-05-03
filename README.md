@@ -65,31 +65,48 @@ To get a better sense of product design as it relates to Flatiron and our progra
 
 
 ### [What is a product designer?](https://medium.com/hubspot-product/explain-it-like-im-5-what-is-a-product-designer-121aad98c047l)
-
-[by](https://medium.com/hubspot-product/explain-it-like-im-5-what-is-a-product-designer-121aad98c047l) _[Henry Wu](https://www.linkedin.com/in/hellohenrywu/)_ (9 min read)
-
-Recently, I was fortunate enough to speak at HubSpot’s First Gen in Tech event where I had the chance to talk about what a Product Designer is and what they do at HubSpot. The event was extremely enlightening. Not only did I have the opportunity to inspire many of my future colleagues but I quickly learned that Product Design is shrouded in mystery outside of those who are already in tech. I was overwhelmed by the feedback and quickly learned there are many questions about what a Product Designer actually does. [Read more](https://medium.com/hubspot-product/explain-it-like-im-5-what-is-a-product-designer-121aad98c047)
+by [Henry Wu](https://www.linkedin.com/in/hellohenrywu/) (9 min read) Recently, I was fortunate enough to speak at HubSpot’s First Gen in Tech event where I had the chance to talk about what a Product Designer is and what they do at HubSpot. The event was extremely enlightening. Not only did I have the opportunity to inspire many of my future colleagues but I quickly learned that Product Design is shrouded in mystery outside of those who are already in tech. I was overwhelmed by the feedback and quickly learned there are many questions about what a Product Designer actually does. [Read more](https://medium.com/hubspot-product/explain-it-like-im-5-what-is-a-product-designer-121aad98c047)
 
 ### [We are product designers](https://medium.com/build-acl/we-are-product-designers-27a8481d2e98)
-
-[](https://medium.com/build-acl/we-are-product-designers-27a8481d2e98)by [Shahed Khalili](https://www.linkedin.com/in/shahedkhalili/?originalSubdomain=ca) (6 min read)
-
-We think design matters. We don’t think it matters a little, we think it is the core of our value proposition and central to everything we build. It is even reflected in our company’s mission statement. At ACL design doesn’t simply refer to the user-interactions or visual appearance of a specific feature.Design to us is the entire process we go through to build the desired customer experience. [Read more](https://medium.com/build-acl/we-are-product-designers-27a8481d2e98)
+by [Shahed Khalili](https://www.linkedin.com/in/shahedkhalili/?originalSubdomain=ca) (6 min read) We think design matters. We don’t think it matters a little, we think it is the core of our value proposition and central to everything we build. It is even reflected in our company’s mission statement. At ACL design doesn’t simply refer to the user-interactions or visual appearance of a specific feature.Design to us is the entire process we go through to build the desired customer experience. [Read more](https://medium.com/build-acl/we-are-product-designers-27a8481d2e98)
 
 ### [Product Design vs UX Design: what’s the difference?](https://uxdesign.cc/product-design-vs-ux-design-whats-the-difference-461b3f11b76b)
-
-[by](https://uxdesign.cc/product-design-vs-ux-design-whats-the-difference-461b3f11b76b) _[Sarah Klein](http://sarah-klein.com/)_ (4 min read)
-
-One of the best things about working in technology is that things are always changing, including what tech folks’ job titles are. As a design professional, it can be easy to get confused by the different job titles du jour. So what’s the difference between a User Experience Designer and a Product Designer? I had an answer based on past conversations with peers in the field, but after some lightweight data collection and analysis, I was led to think differently. [Read more](https://uxdesign.cc/product-design-vs-ux-design-whats-the-difference-461b3f11b76b)
+by [Sarah Klein](http://sarah-klein.com/) (4 min read) One of the best things about working in technology is that things are always changing, including what tech folks’ job titles are. As a design professional, it can be easy to get confused by the different job titles du jour. So what’s the difference between a User Experience Designer and a Product Designer? I had an answer based on past conversations with peers in the field, but after some lightweight data collection and analysis, I was led to think differently. [Read more](https://uxdesign.cc/product-design-vs-ux-design-whats-the-difference-461b3f11b76b)
 <br><br>
 
 
 ## Videos ## 
 
-*   [What are the phases of product design (5 min)](https://study.com/academy/lesson/steps-of-the-product-design-process.html)
-*   [Product design: how to get started.](https://www.youtube.com/watch?v=NIkg3Ui7ITY) (12 min)
-*   [Crema: Digital Product Design Explained.](https://www.youtube.com/watch?v=vGmjynrpwoA) (16 min)
-*   [How design is used to sell products.](https://www.youtube.com/watch?v=AFOpoKBUyok&list=PLJ8cMiYb3G5eD0M1Bfm6lvHy5BR6hoY8X&index=4%0D%0A) (6 min)
+### [What are the phases of product design](https://study.com/academy/lesson/steps-of-the-product-design-process.html)
+(5 min) <br><br>
+<a href="https://www.youtube.com/watch?v=yY96hTb8WgI"><img src="https://img.youtube.com/vi/CJnfAXlBRTE/0.jpg" width="420"></a>
+
+#
+
+
+### [Product design: how to get started.](https://www.youtube.com/watch?v=NIkg3Ui7ITY) 
+(12 min) <br><br>
+<a href="https://www.youtube.com/watch?v=yY96hTb8WgI"><img src="https://img.youtube.com/vi/CJnfAXlBRTE/0.jpg" width="420"></a>
+
+#
+
+
+### [Crema: Digital Product Design Explained.](https://www.youtube.com/watch?v=vGmjynrpwoA) 
+(16 min) <br><br>
+<a href="https://www.youtube.com/watch?v=yY96hTb8WgI"><img src="https://img.youtube.com/vi/CJnfAXlBRTE/0.jpg" width="420"></a>
+
+#
+
+### [How design is used to sell products.](https://www.youtube.com/watch?v=AFOpoKBUyok&list=PLJ8cMiYb3G5eD0M1Bfm6lvHy5BR6hoY8X&index=4%0D%0A) 
+(6 min) <br><br>
+<a href="https://www.youtube.com/watch?v=yY96hTb8WgI"><img src="https://img.youtube.com/vi/CJnfAXlBRTE/0.jpg" width="420"></a>
+
+#
+
+
+
+## Tools ##
+
 
 Tools
 -----
