@@ -120,28 +120,28 @@ by [Marina Yalanska](https://www.linkedin.com/in/marina-yalanska-155b4063/) of [
 <li><a href="http://www.goodweb.design/">Goodweb.design</a></li>
 </ul>
 <hr />
-<h3>Online Sources for Fonts</h3>
+### Online Sources for Fonts
 <ul>
 <li><a href="https://typekit.com/" target="_blank" rel="noopener">Typekit</a></li>
 <li><a href="https://www.google.com/fonts" target="_blank" rel="noopener">Google Fonts</a> (free)</li>
 <li><a href="http://www.myfonts.com/bestsellers/" target="_blank" rel="noopener">MyFonts - bestsellers</a></li>
 </ul>
 <hr />
-<h3>Colors</h3>
+###  Colors
 <ul>
 <li><a href="https://kuler.adobe.com/create/color-wheel/" target="blank">Kuler - color wheel</a></li>
 <li><a href="http://www.colourlovers.com/" target="blank">Colour Lovers - color trends</a></li>
 <li><a href="http://brandcolors.net/" target="blank">BrandColors</a></li>
 </ul>
 <hr />
-<h3>Icons</h3>
+###  Icons
 <ul>
 <li><a href="http://fortawesome.github.io/Font-Awesome/" target="blank">FontAwesome</a> - font icons for the web</li>
 <li><a href="http://flaticons.net/" target="blank">FlatIcons</a></li>
 <li><a href="https://thenounproject.com/" target="blank">The Noun Project</a></li>
 </ul>
 <hr />
-<h3>Stock Photography</h3>
+###  Stock Photography
 <ul>
 <li><a href="https://www.unsplash.com/" target="blank">Unsplash</a> - popular free photography resource</li>
 <li><a href="http://picjumbo.com/" target="blank">PicJumbo</a></li>
