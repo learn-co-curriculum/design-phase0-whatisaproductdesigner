@@ -1,9 +1,23 @@
-# What is a UX Designer? #
+# What is a UI Designer? #
 
-> ## A holistic, multidisciplinary approach to the design of user interfaces for digital products, defining their form, behavior, and content. User experience design integrates interaction design, industrial design, information architecture, information design, visual interface design, user assistance design, and user-centered design, ensuring coherence and consistency across all of these design dimensions.
-> – Pabini Gabriel-Petit, UX Matters.
+> ## Design is the silent ambassador of your brand.
+> –  Paul Rand, Art Director.
 
-<br>User experience (UX) design means different things to different people. In fact, if you ask three people to define what UX is, you will likely hear three different answers. However, most everyone will agree that someone in UX design role is primarily concerned with the total experience of a user as they interact with a product or service that is meant to a specific user problem. UX consists of users, content, business goals and how the users interact with the material.
+### While everyone can point out examples of bad design, good design often goes unnoticed by users since it provides them a seamless experience. Good design is felt throughout the lifecycle of the product or service. 
+
+User Interface (UI) design comes in as a later step of the design process, just before the product or service is handed off to developers. In UI design, all of the deliverables are exclusively visual and the majority of the work is the digital space.
+
+UI designers are responsible for shaping the fine look and feel while highly considering usability of a product, app or website. They must design for a variety of functionalities, users and contexts using branding, color, photography and typography. Good user interface design facilitates the user in accomplishing the task at hand without drawing unnecessary attention to itself all the meanwhile being an extension of the existing brand aesthetic. UI Designers aim to create designs users will find easy to use as well as visually and emotionally pleasurable. 
+
+Interaction Design (IxD) could be but not always is required as an aspect of being an UI Designer. This role is focused on how the visual design interacts with its users. For digital products or services, this includes motion design, such as animations and transitions. When talking about physical (non-digital) products, Interaction Design is about exploring how a user might interact physically with that particular product.
+
+Where do the terms graphic design, branding design, web design and visual design come into play? Most of those roles are foundational to what UI Designers do. Graphic Design is generally tied to print design, design that is seen on paper or physical spaces but having these fundamental design skills can be helpful to a UI Designer. Branding Design is focused on logo and the visual experience of a company which could be static or digital. A proper UI Designer will need to understand how to extend a company brand into their design work. Web Design comes the closest to a UI Designer as they think about the user and interfaces as they create a visual product that is an extension of the brand and will also consider motion in their deliverables. But Web Designers are limited to the web, be it desktop or mobile; UI Designers traverse beyond interface designs on the internet. Visual Designers have been called the visual problem solvers of the design world. Not only can they bring brands to life or evolve the brand, they can communicate and explain design concepts and the decisions behind their work. May times a strong Visual Designer has solid user experience understanding as they need to follow the user journey of the brand.
+
+Web designers are a subset of Visual Designers, focused exclusively on website design work.
+
+User Interface Designers are also a subset of Visual Designers, focusing exclusively on digital interfaces. This would include more than just websites. 
+
+
 
 ### [UserTesting.com](https://www.usertesting.com/blog/ui-vs-ux/) defines UX designer this way: 
 
