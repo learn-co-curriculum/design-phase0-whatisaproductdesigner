@@ -78,38 +78,34 @@ by [Sarah Klein](http://sarah-klein.com/) (4 min read) One of the best things ab
 ## Videos ## 
 
 ### [What are the phases of product design](https://study.com/academy/lesson/steps-of-the-product-design-process.html)
-(5 min) <br><br>
-<a href="https://www.youtube.com/watch?v=yY96hTb8WgI"><img src="https://img.youtube.com/vi/CJnfAXlBRTE/0.jpg" width="420"></a>
+(5 min) Have you ever wondered what steps it takes to create a product? In this lesson, we'll discuss the product design process, from coming up with ideas to providing a finished product to customers.<br><br>
+<a href="https://study.com/academy/lesson/steps-of-the-product-design-process.html"><img src="https://study.com/cimages/videopreview/videopreview-full/xlqj1rcad5.jpg" width="420"></a>
 
 #
 
 
 ### [Product design: how to get started.](https://www.youtube.com/watch?v=NIkg3Ui7ITY) 
-(12 min) <br><br>
-<a href="https://www.youtube.com/watch?v=yY96hTb8WgI"><img src="https://img.youtube.com/vi/CJnfAXlBRTE/0.jpg" width="420"></a>
+(12 min) How do you get started in product design? AJ&Smart's Brittni Bowering takes us through 5 steps to learn product design fundamentals, approach product design professionals and get started in your product design career! <br><br>
+<a href="https://www.youtube.com/watch?v=NIkg3Ui7ITY"><img src="https://img.youtube.com/vi/NIkg3Ui7ITY/0.jpg" width="420"></a>
 
 #
 
 
 ### [Crema: Digital Product Design Explained.](https://www.youtube.com/watch?v=vGmjynrpwoA) 
-(16 min) <br><br>
-<a href="https://www.youtube.com/watch?v=yY96hTb8WgI"><img src="https://img.youtube.com/vi/CJnfAXlBRTE/0.jpg" width="420"></a>
+(16 min) Ever wondered what digital product design is and how it differs from other types of design? The designers are back in another episode of #designersdiscuss to talk about what sets product design apart as well as the tools we recommend to get started in the industry. <br><br>
+<a href="https://www.youtube.com/watch?v=vGmjynrpwoA"><img src="https://img.youtube.com/vi/vGmjynrpwoA/0.jpg" width="420"></a>
 
 #
 
-### [How design is used to sell products.](https://www.youtube.com/watch?v=AFOpoKBUyok&list=PLJ8cMiYb3G5eD0M1Bfm6lvHy5BR6hoY8X&index=4%0D%0A) 
-(6 min) <br><br>
-<a href="https://www.youtube.com/watch?v=yY96hTb8WgI"><img src="https://img.youtube.com/vi/CJnfAXlBRTE/0.jpg" width="420"></a>
+### [How design is used to sell products.](https://www.youtube.com/watch?v=AFOpoKBUyok) 
+(6 min) Juul tried to design a solution to a public health problem. It wound up creating another one. <br><br>
+<a href="https://www.youtube.com/watch?v=AFOpoKBUyok"><img src="https://img.youtube.com/vi/AFOpoKBUyok/0.jpg" width="420"></a>
 
 #
 
 
 
 ## Tools ##
-
-
-Tools
------
 
 *   [Sketch](https://www.sketch.comt)
 *   [Adobe XD](https://www.adobe.com/products/xd.html)
