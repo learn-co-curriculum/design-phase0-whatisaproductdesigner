@@ -67,10 +67,8 @@ by [Josh Magno](https://www.joshmagno.com/), \(Xenon cohort gradudate)\, [Vitali
 ### [Explaining UX design to my sister](https://medium.com/nyc-design/explaining-ux-to-my-sister-7b2eda38fbb4)
 by [Kaleigh Flynn](https://www.kaleighflynn.com/) of [Microsoft](https://www.microsoft.com/en-us/) (5 min read) A few weeks ago, I was talking to my younger sister about careers. Me: “…So that’s when I decided I’d like to focus on becoming a UX designer rather than staying in front-end development.” Sister: “Well, what is UX?” Me: *generic textbook definition of usability and user focused design* Sister: “So… a web designer?” Me: “Well, not exactly. I think what you mean is a UI designer. They definitely work hand-in-hand but focus on different aspects of the same story. Ya know?” Sister: “But there are enough templates out there for me to make a website so what is the point?” [Read more](https://medium.com/nyc-design/explaining-ux-to-my-sister-7b2eda38fbb4)
 
-### [What-is-a UI design?]()
-by  (Links to an external site.) Heath Umbach (Links to an external site.) of Trux  (Links to an external site.)(5 min read)
-
-UX and UI are often lumped into product conversations as meaning the same thing. This confusion is common, even within product design circles. But conflating UI with UX, or vis versa, is problematic. They are not the same thing and can exist as mutually exclusive elements in product design. Read more (Links to an external site.)
+### [What-is-a UI design?](https://medium.com/fresh-tilled-soil/what-is-user-interface-design-d7bf8c4561dc)
+by [Heath Umbach](https://www.linkedin.com/in/heathumbach/) of [Trux](https://www.truxnow.com/)(5 min read) UX and UI are often lumped into product conversations as meaning the same thing. This confusion is common, even within product design circles. But conflating UI with UX, or vis versa, is problematic. They are not the same thing and can exist as mutually exclusive elements in product design. [Read more](https://medium.com/fresh-tilled-soil/what-is-user-interface-design-d7bf8c4561dc)
 
 ### [A comprehensive guide to UI design](https://www.smashingmagazine.com/2018/02/comprehensive-guide-ui-design/)
 by Christopher Murphy (Links to an external site.) of [Ulster](https://www.ulster.ac.uk/) (18 min read) UX, IA, UI: All of these abbreviations can be confusing. In reality, as designers, we’ll often be working across these different specialisms: designing the overall user experience (UX), organizing information logically as we consider information architecture (IA), and considering the granular design of the user interface (UI). [Read more](https://www.smashingmagazine.com/2018/02/comprehensive-guide-ui-design/)
@@ -87,7 +85,7 @@ by [Marina Yalanska](https://www.linkedin.com/in/marina-yalanska-155b4063/) of [
 
 ## Videos ##
 
-### [What is UX Design? Defining User Experience Design & Explaining the Process](https://www.youtube.com/watch?v=CJnfAXlBRTE)
+### [ZZZZZZ](https://www.youtube.com/watch?v=CJnfAXlBRTE)
 (34 min) Jose and Chris explain what UX Design is by working on the redesign of The Skool's website. User Experience Design (UXD) is the process of enhancing user satisfaction by improving the usability, accessibility, and pleasure provided in the interaction between the user and a product or service. <br><br>
 <a href="https://www.youtube.com/watch?v=yY96hTb8WgI"><img src="https://img.youtube.com/vi/CJnfAXlBRTE/0.jpg" width="420"></a>
 
