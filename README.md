@@ -85,27 +85,24 @@ by [Marina Yalanska](https://www.linkedin.com/in/marina-yalanska-155b4063/) of [
 
 ## Videos ##
 
-
-<h3><a href="https://medium.com/fresh-tilled-soil/what-is-user-interface-design-d7bf8c4561dc">What-is-a UI design?</h3>
-<p><a href="https://medium.com/fresh-tilled-soil/what-is-user-interface-design-d7bf8c4561dc"><span style="font-size: 10pt; color: #808080;">by </span></a><a href="https://www.linkedin.com/in/heathumbach/"> Heath Umbach</a> of <em><a href="https://www.truxnow.com/">Trux </a></em>(5 min read)</p>
  
- 
-### [ZZZZZZ](https://www.youtube.com/watch?v=CJnfAXlBRTE)
-(34 min) Jose and Chris explain what UX Design is by working on the redesign of The Skool's website. User Experience Design (UXD) is the process of enhancing user satisfaction by improving the usability, accessibility, and pleasure provided in the interaction between the user and a product or service. <br><br>
-<a href="https://www.youtube.com/watch?v=yY96hTb8WgI"><img src="https://img.youtube.com/vi/CJnfAXlBRTE/0.jpg" width="420"></a>
+### [Moving from graphic to digital design.](https://www.youtube.com/watch?v=2J7AXPxvEds)
+(8 min) Moving from Print Design to Digital Design (I.E. Web Design, App Design, etc…) is fun and exciting but not without it’s differences and discouragement. In this video I talk about making the move and what you can expect.  <br><br>
+<a href="https://www.youtube.com/watch?v=2J7AXPxvEds"><img src="https://img.youtube.com/vi/2J7AXPxvEds/0.jpg" width="420"></a>
 
 #
 
 
-### [Idea to appstore | AJSmart.](https://www.youtube.com/watch?v=ZgMG_OflDq0)
-(16 min) This video is all about taking your idea for an app and the actual process behind building it and delivering it to the appstore. <br><br>
-<a href="https://www.youtube.com/watch?v=yY96hTb8WgI"><img src="https://img.youtube.com/vi/ZgMG_OflDq0/0.jpg" width="420"></a>
+### [Moving from graphic to digital design.](https://www.youtube.com/watch?v=j5DK9jsEaUA&)
+(32 min)How to design a web site for a client? How do you go from wireframes to visual design? UX/UI design for Ole's Hakai Pass Salmon Fishing Lodge site. Watch how Chris Do provides feedback and art direction to designer Sharleen Chen while working on a client site. <br><br>
+<a href="https://www.youtube.com/watch?v=j5DK9jsEaUA&"><img src="https://img.youtube.com/vi/j5DK9jsEaUA&/0.jpg" width="420"></a>
 
 #
 
-### [What Does a UX Designer Do? | Inside Jobs.](https://www.youtube.com/watch?v=HvUHyZb1-9Y)
-(7 min) Colleen Taylor talks with Sarah Harrison, the head of UX design at True&Co. The technology industry today has job titles that you don't really find anywhere else. User experience, or "UX", is one of them. It seems like every tech company is hiring in "UX design" and "UX research", but it's hard for outsiders to know what exactly it is that they do. <br><br>
-<a href="https://www.youtube.com/watch?v=yY96hTb8WgI"><img src="https://img.youtube.com/vi/HvUHyZb1-9Y/0.jpg" width="420"></a>
+
+### [What makes a truly great logo.](https://www.youtube.com/watch?time_continue=9&v=RBTiTcHm_ac)
+(5 min) Here's how a simple mark ends up meaning something big as a great logo. Joe Posner, and Michael Bierut (designer of the Hillary Clinton logo) explain. For more from Michael Bierut on graphic design, check out his book "How to use graphic design to sell things, explain things, make things look better, make people laugh, cry, and (every once in a while) change the world. <br><br>
+<a href="https://www.youtube.com/watch?v=RBTiTcHm_ac"><img src="https://img.youtube.com/vi/RBTiTcHm_ac/0.jpg" width="420"></a>
 
 #
 
@@ -119,29 +116,29 @@ by [Marina Yalanska](https://www.linkedin.com/in/marina-yalanska-155b4063/) of [
 <li><a href="https://www.awwwards.com/">Awwwards</a></li>
 <li><a href="http://www.goodweb.design/">Goodweb.design</a></li>
 </ul>
-<hr />
-### Online Sources for Fonts
+
+### Online Sources for Fonts ###
 <ul>
 <li><a href="https://typekit.com/" target="_blank" rel="noopener">Typekit</a></li>
 <li><a href="https://www.google.com/fonts" target="_blank" rel="noopener">Google Fonts</a> (free)</li>
 <li><a href="http://www.myfonts.com/bestsellers/" target="_blank" rel="noopener">MyFonts - bestsellers</a></li>
 </ul>
-<hr />
-###  Colors
+
+###  Colors ###
 <ul>
 <li><a href="https://kuler.adobe.com/create/color-wheel/" target="blank">Kuler - color wheel</a></li>
 <li><a href="http://www.colourlovers.com/" target="blank">Colour Lovers - color trends</a></li>
 <li><a href="http://brandcolors.net/" target="blank">BrandColors</a></li>
 </ul>
-<hr />
-###  Icons
+
+###  Icons ###
 <ul>
 <li><a href="http://fortawesome.github.io/Font-Awesome/" target="blank">FontAwesome</a> - font icons for the web</li>
 <li><a href="http://flaticons.net/" target="blank">FlatIcons</a></li>
 <li><a href="https://thenounproject.com/" target="blank">The Noun Project</a></li>
 </ul>
-<hr />
-###  Stock Photography
+
+###  Stock Photography ###
 <ul>
 <li><a href="https://www.unsplash.com/" target="blank">Unsplash</a> - popular free photography resource</li>
 <li><a href="http://picjumbo.com/" target="blank">PicJumbo</a></li>
