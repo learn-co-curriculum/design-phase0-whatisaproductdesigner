@@ -64,9 +64,6 @@ by [Josh Magno](https://www.joshmagno.com/), \(Xenon cohort gradudate)\, [Vitali
 
 ## Articles ##
 
-### [Explaining UX design to my sister](https://medium.com/nyc-design/explaining-ux-to-my-sister-7b2eda38fbb4)
-by [Kaleigh Flynn](https://www.kaleighflynn.com/) of [Microsoft](https://www.microsoft.com/en-us/) (5 min read) A few weeks ago, I was talking to my younger sister about careers. Me: “…So that’s when I decided I’d like to focus on becoming a UX designer rather than staying in front-end development.” Sister: “Well, what is UX?” Me: *generic textbook definition of usability and user focused design* Sister: “So… a web designer?” Me: “Well, not exactly. I think what you mean is a UI designer. They definitely work hand-in-hand but focus on different aspects of the same story. Ya know?” Sister: “But there are enough templates out there for me to make a website so what is the point?” [Read more](https://medium.com/nyc-design/explaining-ux-to-my-sister-7b2eda38fbb4)
-
 ### [What-is-a UI design?](https://medium.com/fresh-tilled-soil/what-is-user-interface-design-d7bf8c4561dc)
 by [Heath Umbach](https://www.linkedin.com/in/heathumbach/) of [Trux](https://www.truxnow.com/)(5 min read) UX and UI are often lumped into product conversations as meaning the same thing. This confusion is common, even within product design circles. But conflating UI with UX, or vis versa, is problematic. They are not the same thing and can exist as mutually exclusive elements in product design. [Read more](https://medium.com/fresh-tilled-soil/what-is-user-interface-design-d7bf8c4561dc)
 
@@ -93,9 +90,9 @@ by [Marina Yalanska](https://www.linkedin.com/in/marina-yalanska-155b4063/) of [
 #
 
 
-### [Moving from graphic to digital design.](https://www.youtube.com/watch?v=j5DK9jsEaUA&)
-(32 min)How to design a web site for a client? How do you go from wireframes to visual design? UX/UI design for Ole's Hakai Pass Salmon Fishing Lodge site. Watch how Chris Do provides feedback and art direction to designer Sharleen Chen while working on a client site. <br><br>
-<a href="https://www.youtube.com/watch?v=j5DK9jsEaUA&"><img src="https://img.youtube.com/vi/j5DK9jsEaUA&/0.jpg" width="420"></a>
+### [How to design a website from wireframes](https://www.youtube.com/watch?v=j5DK9jsEaUA)
+(32 min) How to design a web site for a client? How do you go from wireframes to visual design? UX/UI design for Ole's Hakai Pass Salmon Fishing Lodge site. Watch how Chris Do provides feedback and art direction to designer Sharleen Chen while working on a client site. <br><br>
+<a href="https://www.youtube.com/watch?v=j5DK9jsEaUA"><img src="https://img.youtube.com/vi/j5DK9jsEaUA/0.jpg" width="420"></a>
 
 #
 
@@ -103,8 +100,6 @@ by [Marina Yalanska](https://www.linkedin.com/in/marina-yalanska-155b4063/) of [
 ### [What makes a truly great logo.](https://www.youtube.com/watch?time_continue=9&v=RBTiTcHm_ac)
 (5 min) Here's how a simple mark ends up meaning something big as a great logo. Joe Posner, and Michael Bierut (designer of the Hillary Clinton logo) explain. For more from Michael Bierut on graphic design, check out his book "How to use graphic design to sell things, explain things, make things look better, make people laugh, cry, and (every once in a while) change the world. <br><br>
 <a href="https://www.youtube.com/watch?v=RBTiTcHm_ac"><img src="https://img.youtube.com/vi/RBTiTcHm_ac/0.jpg" width="420"></a>
-
-#
 
 
 
