@@ -112,20 +112,38 @@ by [Marina Yalanska](https://www.linkedin.com/in/marina-yalanska-155b4063/) of [
 
 
 
-## Tools ##
+## Tools and Resources ##
 
-- [InVision](https://www.invisionapp.com/) Showing and gathering feedback on simple prototypes and designs
-- [Axure](https://www.axure.com/) Wireframing and prototyping tool
-- [Figma](https://www.figma.com/) A design and prototyping tool that also allows for collaborative work as well as feedback
-- [Sketch](https://www.sketch.com/) a design and prototyping tool
-- [Optimizely](https://www.optimizely.com/) A tool for comparative and experimental testing
-- [UserTesting](https://www.usertesting.com/) A tool for getting actual users to test our your designs or experiences
-
-UX Mastery has a [very comprehensive list](https://uxmastery.com/resources/tools/) bucketed by task or user experience need.
-
- ## Books ##
-- [Lean UX](https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652)
-- [About Face](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571)
-- [Designing for the Digital Age](https://www.amazon.com/Designing-Digital-Age-Human-Centered-Products/dp/0470229101)
-- [Don't make me think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=pd_lpo_sbs_14_t_1?_encoding=UTF8&psc=1&refRID=Z71BQH0Q1YWN0W63M8ZC)
-- [The design of everyday things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/ref=pd_sim_0_1/146-3966154-6500732?_encoding=UTF8&pd_rd_i=0465050654&pd_rd_r=9a3c43c4-5561-11e9-bfda-3de5c1f8c63d&pd_rd_w=66rmS&pd_rd_wg=RLuLi&pf_rd_p=90485860-83e9-4fd9-b838-b28a9b7fda30&pf_rd_r=ZJ3F2NYAJCYHKDPX2595&psc=1&refRID=ZJ3F2NYAJCYHKDPX2595)
+<ul>
+<li><a href="https://dribbble.com/">Dribbble</a></li>
+<li><a href="https://www.awwwards.com/">Awwwards</a></li>
+<li><a href="http://www.goodweb.design/">Goodweb.design</a></li>
+</ul>
+<hr />
+<h3>Online Sources for Fonts</h3>
+<ul>
+<li><a href="https://typekit.com/" target="_blank" rel="noopener">Typekit</a></li>
+<li><a href="https://www.google.com/fonts" target="_blank" rel="noopener">Google Fonts</a> (free)</li>
+<li><a href="http://www.myfonts.com/bestsellers/" target="_blank" rel="noopener">MyFonts - bestsellers</a></li>
+</ul>
+<hr />
+<h3>Colors</h3>
+<ul>
+<li><a href="https://kuler.adobe.com/create/color-wheel/" target="blank">Kuler - color wheel</a></li>
+<li><a href="http://www.colourlovers.com/" target="blank">Colour Lovers - color trends</a></li>
+<li><a href="http://brandcolors.net/" target="blank">BrandColors</a></li>
+</ul>
+<hr />
+<h3>Icons</h3>
+<ul>
+<li><a href="http://fortawesome.github.io/Font-Awesome/" target="blank">FontAwesome</a> - font icons for the web</li>
+<li><a href="http://flaticons.net/" target="blank">FlatIcons</a></li>
+<li><a href="https://thenounproject.com/" target="blank">The Noun Project</a></li>
+</ul>
+<hr />
+<h3>Stock Photography</h3>
+<ul>
+<li><a href="https://www.unsplash.com/" target="blank">Unsplash</a> - popular free photography resource</li>
+<li><a href="http://picjumbo.com/" target="blank">PicJumbo</a></li>
+<li><a href="http://gettyimages.com" target="blank">Getty Images</a> - commercial stock photography</li>
+</ul>
