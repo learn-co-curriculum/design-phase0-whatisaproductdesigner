@@ -17,6 +17,33 @@ Web designers are a subset of Visual Designers, focused exclusively on website d
 
 User Interface Designers are also a subset of Visual Designers, focusing exclusively on digital interfaces. This would include more than just websites. 
 
+## Part brand ambassador, part visual designer, part motion designer, UI Designers are skilled in a variety of these skills and responsibilities:
+- Has solid understanding in typography, images, color, layout
+- Understand the cultural implications of these visuals 
+- Ensure the brand is expressed in the design
+- Considers accessibility for all users
+- Being able to provide multiple creative visual solutions 
+- Leveraging interaction (motion) design to solve for space considerations and to create a memorable user experience
+- Works very closely with developers to ensure the interactions are implemented well
+- A little knowledge in development is a nice to have
+
+When Visual and UI Designer consider their designs, they think and check to ensure their designs are: 
+
+- innovative
+- useful
+- aesthetic
+- understandable
+- unobtrusive
+- honest
+- long-lasting
+- detailed
+- sustainable
+- assessable
+- and contains as little design as possible
+
+
+
+
 
 
 ### [UserTesting.com](https://www.usertesting.com/blog/ui-vs-ux/) defines UX designer this way: 
