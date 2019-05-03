@@ -1,14 +1,8 @@
-![what-is-product-design-banner](https://designationlabs.instructure.com/courses/195/files/44431/download?wrap=1)
+# What is a Product Designer? #
 
-*   [Introduction](#segment-1)
-*   [Product Design Student Interviews](#segment-3)
-*   [Read](#segment-2)
-*   [Watch](#segment-4)
-*   [Tools and Resources](#segment-5)
+> ## Design is concerned with how things work, how they are controlled, and the nature of the interaction between people and technology. When done well, the results are brilliant, pleasurable products. Don Norman, _The Design of Everyday Things_
 
-> Design is concerned with how things work, how they are controlled, and the nature of the interaction between people and technology. When done well, the results are brilliant, pleasurable products. Don Norman, _The Design of Everyday Things_
-
-Product design focuses on the entire lifecycle of a product to shape how users interact with it. Especially in larger cities, the industry has seen substantial growth in recent years. 
+#### Product design focuses on the entire lifecycle of a product to shape how users interact with it. Especially in larger cities, the industry has seen substantial growth in recent years. 
 
 Product design is a true digital renaissance position. Leveraging both UX and UI design strategies, product designers have eyes on the entire design process -- from ideation to creation to product shipment. Because Product Designers leverage both skillsets of research, information architecture, testing of UX professionals as well as the visual know-how of extending a brand in the interface design of UI Designers, it required almost twice the education and experience. 
 
@@ -52,14 +46,23 @@ So what are some deliverables product designers own? On paper, any key deliverab
 *   user interface design
 *   development
 *   stakeholder presentations
+<br><br>
 
-In the following tabs, you'll find more information about the product design industry and the tools designers use daily, as well as stories from our alumni in the field.
+
+
+## UX Student Interviews ## 
 
 To get a better sense of product design as it relates to Flatiron and our program, here are interviews with some of our alum:
 
 *   [_Marketing student turned product designer._](https://designation.io/blog/course-report-interviewwith-zoe-sinner-product-designer-facebook) by [Zoë Sinner, Amethyst cohort](https://www.linkedin.com/in/zoesinner/) of _[Facebook.](https://www.facebook.com/)_ (5 min read)
 *   [_Former marine researcher turned product designer._](https://designation.io/blog/caitlin-brisson) by [Caitlin Brisson, Basil cohort](http://www.caitlinbrisson.com/) of _[Gusto.](https://gusto.com/)_ (5 min read)
 *   [_How to go from marketing products to a product designer._](https://designation.io/blog/dan-speers) by [Dan Speers, Xenon cohort](http://danielspeers.me/) of _[Shiftgig.](https://www.shiftgig.com/)_ (5 min read)
+<br><br>
+
+
+
+## Articles ## 
+
 
 ### [What is a product designer?](https://medium.com/hubspot-product/explain-it-like-im-5-what-is-a-product-designer-121aad98c047l)
 
@@ -78,11 +81,15 @@ We think design matters. We don’t think it matters a little, we think it is th
 [by](https://uxdesign.cc/product-design-vs-ux-design-whats-the-difference-461b3f11b76b) _[Sarah Klein](http://sarah-klein.com/)_ (4 min read)
 
 One of the best things about working in technology is that things are always changing, including what tech folks’ job titles are. As a design professional, it can be easy to get confused by the different job titles du jour. So what’s the difference between a User Experience Designer and a Product Designer? I had an answer based on past conversations with peers in the field, but after some lightweight data collection and analysis, I was led to think differently. [Read more](https://uxdesign.cc/product-design-vs-ux-design-whats-the-difference-461b3f11b76b)
+<br><br>
 
-*   **watch:** [What are the phases of product design (5 min)](https://study.com/academy/lesson/steps-of-the-product-design-process.html)
-*   **watch:** [Product design: how to get started.](https://www.youtube.com/watch?v=NIkg3Ui7ITY) (12 min)
-*   **watch:** [Crema: Digital Product Design Explained.](https://www.youtube.com/watch?v=vGmjynrpwoA) (16 min)
-*   **watch:** [How design is used to sell products.](https://www.youtube.com/watch?v=AFOpoKBUyok&list=PLJ8cMiYb3G5eD0M1Bfm6lvHy5BR6hoY8X&index=4%0D%0A) (6 min)
+
+## Videos ## 
+
+*   [What are the phases of product design (5 min)](https://study.com/academy/lesson/steps-of-the-product-design-process.html)
+*   [Product design: how to get started.](https://www.youtube.com/watch?v=NIkg3Ui7ITY) (12 min)
+*   [Crema: Digital Product Design Explained.](https://www.youtube.com/watch?v=vGmjynrpwoA) (16 min)
+*   [How design is used to sell products.](https://www.youtube.com/watch?v=AFOpoKBUyok&list=PLJ8cMiYb3G5eD0M1Bfm6lvHy5BR6hoY8X&index=4%0D%0A) (6 min)
 
 Tools
 -----
