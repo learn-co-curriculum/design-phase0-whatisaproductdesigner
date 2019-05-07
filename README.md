@@ -1,6 +1,7 @@
 # What is a Product Designer? #
 
-> ## Design is concerned with how things work, how they are controlled, and the nature of the interaction between people and technology. When done well, the results are brilliant, pleasurable products. Don Norman, _The Design of Everyday Things_
+> ## Design is concerned with how things work, how they are controlled, and the nature of the interaction between people and technology. When done well, the results are brilliant, pleasurable products. 
+> – Don Norman, The Design of Everyday Things
 <br><br>
 
 ### Product design focuses on the entire lifecycle of a product to shape how users interact with it. Especially in larger cities, the industry has seen substantial growth in recent years. 
