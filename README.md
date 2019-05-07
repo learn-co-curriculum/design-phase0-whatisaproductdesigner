@@ -54,9 +54,14 @@ So what are some deliverables product designers own? On paper, any key deliverab
 
 To get a better sense of product design as it relates to Flatiron and our program, here are interviews with some of our alum:
 
-*   [_Marketing student turned product designer._](https://designation.io/blog/course-report-interviewwith-zoe-sinner-product-designer-facebook) by [Zoë Sinner, Amethyst cohort](https://www.linkedin.com/in/zoesinner/) of _[Facebook.](https://www.facebook.com/)_ (5 min read)
-*   [_Former marine researcher turned product designer._](https://designation.io/blog/caitlin-brisson) by [Caitlin Brisson, Basil cohort](http://www.caitlinbrisson.com/) of _[Gusto.](https://gusto.com/)_ (5 min read)
-*   [_How to go from marketing products to a product designer._](https://designation.io/blog/dan-speers) by [Dan Speers, Xenon cohort](http://danielspeers.me/) of _[Shiftgig.](https://www.shiftgig.com/)_ (5 min read)
+[Marketing student turned product designer.](https://designation.io/blog/course-report-interviewwith-zoe-sinner-product-designer-facebook) 
+by [Zoë Sinner](https://www.linkedin.com/in/zoesinner/) (Amethyst cohort graduate), [Facebook.](https://www.facebook.com/) (5 min read)
+
+[Former marine researcher turned product designer.](https://designation.io/blog/caitlin-brisson) 
+by [Caitlin Brisson](http://www.caitlinbrisson.com/) (Basil cohort graduate), [Gusto.](https://gusto.com/) (5 min read)
+
+[How to go from marketing products to a product designer._](https://designation.io/blog/dan-speers) 
+by [Dan Speers](http://danielspeers.me/) (Xenon cohort graduate), [Shiftgig.](https://www.shiftgig.com/) (5 min read)
 <br><br>
 
 
@@ -73,6 +78,7 @@ by [Shahed Khalili](https://www.linkedin.com/in/shahedkhalili/?originalSubdomain
 ### [Product Design vs UX Design: what’s the difference?](https://uxdesign.cc/product-design-vs-ux-design-whats-the-difference-461b3f11b76b)
 by [Sarah Klein](http://sarah-klein.com/) (4 min read) One of the best things about working in technology is that things are always changing, including what tech folks’ job titles are. As a design professional, it can be easy to get confused by the different job titles du jour. So what’s the difference between a User Experience Designer and a Product Designer? I had an answer based on past conversations with peers in the field, but after some lightweight data collection and analysis, I was led to think differently. [Read more](https://uxdesign.cc/product-design-vs-ux-design-whats-the-difference-461b3f11b76b)
 <br><br>
+
 
 
 ## Videos ## 
@@ -100,8 +106,7 @@ by [Sarah Klein](http://sarah-klein.com/) (4 min read) One of the best things ab
 ### [How design is used to sell products.](https://www.youtube.com/watch?v=AFOpoKBUyok) 
 (6 min) Juul tried to design a solution to a public health problem. It wound up creating another one. <br><br>
 <a href="https://www.youtube.com/watch?v=AFOpoKBUyok"><img src="https://img.youtube.com/vi/AFOpoKBUyok/0.jpg" width="420"></a>
-
-#
+<br><br>
 
 
 
@@ -112,10 +117,8 @@ by [Sarah Klein](http://sarah-klein.com/) (4 min read) One of the best things ab
 *   [Invision](https://www.invisionapp.com/)
 *   [Zeplin](https://zeplin.io/)
 
-Books
------
+## Books ## 
 
 *   [Well Designed](https://www.amazon.com/Well-Designed-Empathy-Create-Products-People/dp/1625274793/ref=sr_1_1?keywords=well+designed&qid=1554150820&s=gateway&sr=8-1)
 *   [Hooked](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788/ref=pd_sim_0_4/146-3966154-6500732?_encoding=UTF8&pd_rd_i=1591847788&pd_rd_r=72383911-54bd-11e9-bf6a-1b0d85ff0e6f&pd_rd_w=PBxou&pd_rd_wg=PCOYe&pf_rd_p=90485860-83e9-4fd9-b838-b28a9b7fda30&pf_rd_r=S4GQBDQ3P2VQ7R60ZAK9&psc=1&refRID=S4GQBDQ3P2VQ7R60ZAK9l)
 
-* * *
