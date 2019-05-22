@@ -15,46 +15,47 @@ Product Designers oftentimes own some of all aspects of these job roles:
 *   [User Interface (UI) Designer](/tracks/design-phase-0/welcome-to-design-prep/careers/what-is-a-ui-designer)
 *   [Interaction Designer (IX)](/tracks/design-phase-0/welcome-to-design-prep/careers/what-is-a-ui-designer)
 
-A better way to look at this is through the lens of the product:
+A better way to look at a Product Designer’s role is through the lens of the product: 
 
-The way a product **feels**. Also known as **user experience (UX) design** for a product. This is the logic behind the product and what it's offering to the user and how it's making the user feel throughout that experience.
+he way a product **feels**, or the **user experience (UX) design** for a product. In other words, the logic behind the product, what it offers to a user and how it makes a user feel throughout the experience.  
 
-The way a product **behaves**. Also known as **interaction design** **(IxD)** for a product. This is what the product or interface does when the user interacts with it. Animations, transitions and haptic feedback are aspects to consider.
+The way a product **behaves**, or the **interaction design (IxD)** for a product. This is what the product or interface does when the user interacts with it. Animations, transitions and haptic feedback are part of interaction design.
 
-The way a product **looks**. Also known as **user interface (UI) design** for a product. Extending the brand into the interface of the product is key here. This would include considerations in typography, color, imagery, layouts, hierarchy, buttons, forms, etc.
+The way a product **looks**, or the user **interface (UI) design** for a product. Extending the brand into the interface of the product is an important component of UI Design – through typography, color, imagery, layouts, hierarchy, buttons, forms, etc.
 
-The way a product is **structured** and how the content is **organized**. Also known as **information architecture** for a product. This is mapping how the user performs and completes a task, tracking from the beginning of their journey to the end. What information and experience they have along the path from point A to point B.
+The way a product is **structured** and how the content is **organized**, or the product’s **information architecture**. This means mapping out how the user performs and completes a task from the beginning of their journey to the end. Information architecture involves understanding what information a user receives and what experience have along the path from point A to point B. 
 
-So what are some deliverables product designers own? On paper, any key deliverable from the beginning of the product lifecycle to its end are the responsibility of product designers. Some examples include:
+So, what are some of the deliverables product designers create? The short answer is any key deliverable from the entire product lifestyle. Some examples are:  
 
-*   Competitive Analysis
-*   Journey Maps
-*   Site Maps
-*   Wireframes
-*   Prototypes
-*   User Testing Scripts
-*   High Fidelity Designs
-*   Design Systems
+* Competitive analysis
+* Journey maps
+* Site maps
+* Wireframes
+* Prototypes
+* User testing scripts
+* High fidelity designs
+* Design systems
 
-### **Part process architect, part user experience expert, part interface designer, Product Designers have touch points and responsibilities in:**
 
-*   business strategy
-*   research
-*   process mapping
-*   user experience design
-*   content strategy
-*   information architecture
-*   visual design
-*   user interface design
-*   development
-*   stakeholder presentations
+### **Part process architect, part user experience expert, part interface designer, Product Designers are involved in:**
+
+* Business strategy
+* Research
+* Process mapping
+* User experience design
+* Content strategy
+* Information architecture
+* Visual design
+* User interface design
+* Development
+* Stakeholder presentations 
 <br><br>
 
 
 
 ## UX Student Interviews ## 
 
-To get a better sense of product design as it relates to Flatiron and our program, here are interviews with some of our alum:
+To get a better sense of product design as it relates to Flatiron and our program, check out a few interviews with some of our alum:
 
 ### [Marketing student turned product designer.](https://designation.io/blog/course-report-interviewwith-zoe-sinner-product-designer-facebook) 
 by [Zoë Sinner](https://www.linkedin.com/in/zoesinner/) (Amethyst cohort graduate), [Facebook.](https://www.facebook.com/) (5 min read)
