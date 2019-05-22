@@ -8,12 +8,12 @@
 
 Product design is a true digital renaissance position. Leveraging both UX and UI design strategies, product designers have eyes on the entire design process -- from ideation to creation to product shipment. Because Product Designers leverage both skillsets of research, information architecture, testing of UX professionals as well as the visual know-how of extending a brand in the interface design of UI Designers, it required almost twice the education and experience. 
 
-Product Designers many times own aspects or all of each of these other job roles: 
+Product Designers oftentimes own some of all aspects of these job roles: 
 
-*   Experience Designer (XD) or User Experience (UX) Designer \[Link back\]
-*   Information Architect (IA) or Experience Architect (XA) \[Link back\]
-*   User Interface (UI) Designer \[Link back\]
-*   Interaction Designer (IX) \[Link back\]
+*   [Experience Designer (XD) or User Experience (UX) Designer](/tracks/design-phase-0/welcome-to-design-prep/careers/what-is-a-ux-designer)
+*   [Information Architect (IA) or Experience Architect (XA)](/tracks/design-phase-0/welcome-to-design-prep/careers/what-is-a-ux-designer)
+*   [User Interface (UI) Designer](/tracks/design-phase-0/welcome-to-design-prep/careers/what-is-a-ui-designer)
+*   [Interaction Designer (IX)](/tracks/design-phase-0/welcome-to-design-prep/careers/what-is-a-ui-designer)
 
 A better way to look at this is through the lens of the product:
 
