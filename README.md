@@ -1,4 +1,4 @@
-# What is a Product Designer? #
+# What is a Product Designer? 
 <br>
 
 > ## Design is concerned with how things work, how they are controlled, and the nature of the interaction between people and technology. When done well, the results are brilliant, pleasurable products. 
@@ -53,7 +53,7 @@ So, what are some of the deliverables product designers create? The short answer
 
 
 
-## UX Student Interviews ## 
+## UX Student Interviews 
 
 To get a better sense of product design as it relates to Flatiron and our program, check out a few interviews with some of our alum:
 
@@ -73,18 +73,18 @@ by [Dan Speers](http://danielspeers.me/) (Xenon cohort graduate), [Shiftgig.](ht
 
 
 ### [What is a product designer?](https://medium.com/hubspot-product/explain-it-like-im-5-what-is-a-product-designer-121aad98c047l)
-by [Henry Wu](https://www.linkedin.com/in/hellohenrywu/) (9 min read) Recently, I was fortunate enough to speak at HubSpot’s First Gen in Tech event where I had the chance to talk about what a Product Designer is and what they do at HubSpot. The event was extremely enlightening. Not only did I have the opportunity to inspire many of my future colleagues but I quickly learned that Product Design is shrouded in mystery outside of those who are already in tech. I was overwhelmed by the feedback and quickly learned there are many questions about what a Product Designer actually does. [Read more](https://medium.com/hubspot-product/explain-it-like-im-5-what-is-a-product-designer-121aad98c047)
+by [Henry Wu](https://www.linkedin.com/in/hellohenrywu/) (9 min read) <br>Recently, I was fortunate enough to speak at HubSpot’s First Gen in Tech event where I had the chance to talk about what a Product Designer is and what they do at HubSpot. The event was extremely enlightening. Not only did I have the opportunity to inspire many of my future colleagues but I quickly learned that Product Design is shrouded in mystery outside of those who are already in tech. I was overwhelmed by the feedback and quickly learned there are many questions about what a Product Designer actually does. [Read more](https://medium.com/hubspot-product/explain-it-like-im-5-what-is-a-product-designer-121aad98c047)
 
 ### [We are product designers](https://medium.com/build-acl/we-are-product-designers-27a8481d2e98)
-by [Shahed Khalili](https://www.linkedin.com/in/shahedkhalili/?originalSubdomain=ca) (6 min read) We think design matters. We don’t think it matters a little, we think it is the core of our value proposition and central to everything we build. It is even reflected in our company’s mission statement. At ACL design doesn’t simply refer to the user-interactions or visual appearance of a specific feature.Design to us is the entire process we go through to build the desired customer experience. [Read more](https://medium.com/build-acl/we-are-product-designers-27a8481d2e98)
+by [Shahed Khalili](https://www.linkedin.com/in/shahedkhalili/?originalSubdomain=ca) (6 min read) <br>We think design matters. We don’t think it matters a little, we think it is the core of our value proposition and central to everything we build. It is even reflected in our company’s mission statement. At ACL design doesn’t simply refer to the user-interactions or visual appearance of a specific feature.Design to us is the entire process we go through to build the desired customer experience. [Read more](https://medium.com/build-acl/we-are-product-designers-27a8481d2e98)
 
 ### [Product Design vs UX Design: what’s the difference?](https://uxdesign.cc/product-design-vs-ux-design-whats-the-difference-461b3f11b76b)
-by [Sarah Klein](http://sarah-klein.com/) (4 min read) One of the best things about working in technology is that things are always changing, including what tech folks’ job titles are. As a design professional, it can be easy to get confused by the different job titles du jour. So what’s the difference between a User Experience Designer and a Product Designer? I had an answer based on past conversations with peers in the field, but after some lightweight data collection and analysis, I was led to think differently. [Read more](https://uxdesign.cc/product-design-vs-ux-design-whats-the-difference-461b3f11b76b)
+by [Sarah Klein](http://sarah-klein.com/) (4 min read) <br>One of the best things about working in technology is that things are always changing, including what tech folks’ job titles are. As a design professional, it can be easy to get confused by the different job titles du jour. So what’s the difference between a User Experience Designer and a Product Designer? I had an answer based on past conversations with peers in the field, but after some lightweight data collection and analysis, I was led to think differently. [Read more](https://uxdesign.cc/product-design-vs-ux-design-whats-the-difference-461b3f11b76b)
 <br><br>
 
 
 
-## Videos ## 
+## Videos 
 
 ### [What are the phases of product design](https://study.com/academy/lesson/steps-of-the-product-design-process.html)
 (5 min) Have you ever wondered what steps it takes to create a product? In this lesson, we'll discuss the product design process, from coming up with ideas to providing a finished product to customers.<br><br>
@@ -113,14 +113,14 @@ by [Sarah Klein](http://sarah-klein.com/) (4 min read) One of the best things ab
 
 
 
-## Tools ##
+## Tools 
 
 *   [Sketch](https://www.sketch.comt)
 *   [Adobe XD](https://www.adobe.com/products/xd.html)
 *   [Invision](https://www.invisionapp.com/)
 *   [Zeplin](https://zeplin.io/)
 
-## Books ## 
+## Books 
 
 *   [Well Designed](https://www.amazon.com/Well-Designed-Empathy-Create-Products-People/dp/1625274793/ref=sr_1_1?keywords=well+designed&qid=1554150820&s=gateway&sr=8-1)
 *   [Hooked](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788/ref=pd_sim_0_4/146-3966154-6500732?_encoding=UTF8&pd_rd_i=1591847788&pd_rd_r=72383911-54bd-11e9-bf6a-1b0d85ff0e6f&pd_rd_w=PBxou&pd_rd_wg=PCOYe&pf_rd_p=90485860-83e9-4fd9-b838-b28a9b7fda30&pf_rd_r=S4GQBDQ3P2VQ7R60ZAK9&psc=1&refRID=S4GQBDQ3P2VQ7R60ZAK9l)
