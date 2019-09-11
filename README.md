@@ -17,7 +17,7 @@ Product Designers oftentimes own some of all aspects of these job roles:
 
 A better way to look at a Product Designer’s role is through the lens of the product: 
 
-he way a product **feels**, or the **user experience (UX) design** for a product. In other words, the logic behind the product, what it offers to a user and how it makes a user feel throughout the experience.  
+The way a product **feels**, or the **user experience (UX) design** for a product. In other words, the logic behind the product, what it offers to a user and how it makes a user feel throughout the experience.  
 
 The way a product **behaves**, or the **interaction design (IxD)** for a product. This is what the product or interface does when the user interacts with it. Animations, transitions and haptic feedback are part of interaction design.
 
