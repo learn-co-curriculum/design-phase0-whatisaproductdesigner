@@ -95,13 +95,6 @@ by [Sarah Klein](http://sarah-klein.com/) (4 min read) <br>One of the best thing
 #
 
 
-## [Product design: how to get started.](https://www.youtube.com/watch?v=NIkg3Ui7ITY) 
-(12 min) How do you get started in product design? AJ&Smart's Brittni Bowering takes us through 5 steps to learn product design fundamentals, approach product design professionals and get started in your product design career! <br><br>
-<a href="https://www.youtube.com/watch?v=NIkg3Ui7ITY"><img src="https://img.youtube.com/vi/NIkg3Ui7ITY/0.jpg" width="420"></a>
-
-#
-
-
 ## [Crema: Digital Product Design Explained.](https://www.youtube.com/watch?v=vGmjynrpwoA) 
 (16 min) Ever wondered what digital product design is and how it differs from other types of design? The designers are back in another episode of #designersdiscuss to talk about what sets product design apart as well as the tools we recommend to get started in the industry. <br><br>
 <a href="https://www.youtube.com/watch?v=vGmjynrpwoA"><img src="https://img.youtube.com/vi/vGmjynrpwoA/0.jpg" width="420"></a>
