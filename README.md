@@ -59,13 +59,13 @@ So, what are some of the deliverables product designers create? The short answer
 To get a better sense of product design as it relates to Flatiron and our program, check out a few interviews with some of our alum:
 
 ## [Marketing student turned product designer.](https://designation.io/blog/course-report-interviewwith-zoe-sinner-product-designer-facebook) 
-by [Zoë Sinner](https://www.linkedin.com/in/zoesinner/) (Amethyst cohort graduate), [Facebook.](https://www.facebook.com/) (5 min read)
+(5 min read) by [Zoë Sinner](https://www.linkedin.com/in/zoesinner/) (Amethyst cohort graduate), [Facebook.](https://www.facebook.com/) 
 
 ## [Former marine researcher turned product designer.](https://designation.io/blog/caitlin-brisson) 
-by [Caitlin Brisson](http://www.caitlinbrisson.com/) (Basil cohort graduate), [Gusto.](https://gusto.com/) (5 min read)
+(5 min read) by [Caitlin Brisson](http://www.caitlinbrisson.com/) (Basil cohort graduate), [Gusto.](https://gusto.com/)
 
 ## [How to go from marketing products to a product designer.](https://designation.io/blog/dan-speers) 
-by [Dan Speers](http://danielspeers.me/) (Xenon cohort graduate), [Shiftgig.](https://www.shiftgig.com/) (5 min read)
+(5 min read) by [Dan Speers](http://danielspeers.me/) (Xenon cohort graduate), [Shiftgig.](https://www.shiftgig.com/) 
 <br><br>
 
 
