@@ -6,7 +6,7 @@
 
 ## Product design focuses on the entire lifecycle of a product to shape how users interact with it. Especially in larger cities, the industry has seen substantial growth in recent years. 
 
-Product design is a true digital renaissance position. Leveraging both UX and UI design strategies, product designers have eyes on the entire design process -- from ideation to creation to product shipment. Because Product Designers leverage both skillsets of research, information architecture, testing of UX professionals as well as the visual know-how of extending a brand in the interface design of UI Designers, it required almost twice the education and experience. 
+Product design is a true digital renaissance position. Leveraging both UX and UI design strategies, product designers have eyes on the entire design process -- from ideation to creation to product shipment. Because Product Designers leverage both skillsets of research, information architecture, testing of UX professionals as well as the visual know-how of extending a brand in the interface design of UI Designers, it requires almost twice the education and experience. 
 
 Product Designers oftentimes own some of all aspects of these job roles: 
 
