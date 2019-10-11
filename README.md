@@ -73,7 +73,7 @@ To get a better sense of product design as it relates to Flatiron and our progra
 # Articles 
 <hr color="#eaecef">
 
-## [What is a product designer?](https://medium.com/hubspot-product/explain-it-like-im-5-what-is-a-product-designer-121aad98c047l)
+## [What is a product designer?](https://medium.com/hubspot-product/explain-it-like-im-5-what-is-a-product-designer-121aad98c047)
 by [Henry Wu](https://www.linkedin.com/in/hellohenrywu/) (9 min read) <br>Recently, I was fortunate enough to speak at HubSpot’s First Gen in Tech event where I had the chance to talk about what a Product Designer is and what they do at HubSpot. The event was extremely enlightening. Not only did I have the opportunity to inspire many of my future colleagues but I quickly learned that Product Design is shrouded in mystery outside of those who are already in tech. I was overwhelmed by the feedback and quickly learned there are many questions about what a Product Designer actually does. [Read more](https://medium.com/hubspot-product/explain-it-like-im-5-what-is-a-product-designer-121aad98c047)
 
 ## [We are product designers](https://medium.com/build-acl/we-are-product-designers-27a8481d2e98)
